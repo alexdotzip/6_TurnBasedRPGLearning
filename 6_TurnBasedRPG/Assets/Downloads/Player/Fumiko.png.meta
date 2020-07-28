@@ -1,0 +1,4484 @@
+fileFormatVersion: 2
+guid: 16493286b33b0194bb22138c042fe192
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5331788272802834168
+    second: Fumiko_UpWalk1
+  - first:
+      213: 2948790016783854865
+    second: Fumiko_UpIdle
+  - first:
+      213: 3986944997836677075
+    second: Fumiko_UpWalk2
+  - first:
+      213: 2807182239480424780
+    second: Fumiko_UpRun1
+  - first:
+      213: -5993450756036028084
+    second: Fumiko_UpIdle2
+  - first:
+      213: -1951487983557138016
+    second: UpRun2
+  - first:
+      213: 4573362537388687282
+    second: Fumiko_6
+  - first:
+      213: 9104862082341290735
+    second: Fumiko_7
+  - first:
+      213: 5315391806225452420
+    second: Fumiko_8
+  - first:
+      213: -8380638479392749064
+    second: Fumiko_9
+  - first:
+      213: -8787330149692144275
+    second: Fumiko_10
+  - first:
+      213: 6343562147573650944
+    second: Fumiko_11
+  - first:
+      213: -8765489509576712272
+    second: Fumiko_12
+  - first:
+      213: 936123902315817516
+    second: Fumiko_13
+  - first:
+      213: 7116909014314669858
+    second: Fumiko_14
+  - first:
+      213: 1259554203563612604
+    second: ItemDown2
+  - first:
+      213: -9131384123704057759
+    second: Fumiko_WalkRight
+  - first:
+      213: -4703290682841777374
+    second: Fumiko_IdleRight
+  - first:
+      213: 1154626865603213373
+    second: Fumiko_Right
+  - first:
+      213: 1758345463728316329
+    second: Fumiko_PunchRight
+  - first:
+      213: 1069720050888688687
+    second: Fumiko_RunRight
+  - first:
+      213: -7815992558449841511
+    second: RightUnarmed2
+  - first:
+      213: 4626920354569438321
+    second: Fumiko_22
+  - first:
+      213: 7177385748183536982
+    second: Fumiko_23
+  - first:
+      213: 1091012550707837366
+    second: Fumiko_24
+  - first:
+      213: -1928020750593270977
+    second: Fumiko_25
+  - first:
+      213: -5596998613280874597
+    second: Fumiko_26
+  - first:
+      213: 3559018623632429323
+    second: Fumiko_27
+  - first:
+      213: -2036473936632080821
+    second: Fumiko_28
+  - first:
+      213: 3167859043841044674
+    second: Fumiko_29
+  - first:
+      213: -3810208243916166063
+    second: Fumiko_30
+  - first:
+      213: 7995653024336800784
+    second: Fumiko_31
+  - first:
+      213: -5429635563321774550
+    second: ItemDown
+  - first:
+      213: -2525418196212630378
+    second: DownWalk1
+  - first:
+      213: 1925709418608328035
+    second: IdleDown
+  - first:
+      213: -8534045837946076090
+    second: DownWalk2
+  - first:
+      213: 3488574152074400837
+    second: DownRun1
+  - first:
+      213: -3667406427384434209
+    second: Fumiko_37
+  - first:
+      213: -8379883815836706380
+    second: DownRun2
+  - first:
+      213: -3302478448516477342
+    second: Fumiko_39
+  - first:
+      213: 8455739826895663768
+    second: Fumiko_40
+  - first:
+      213: 6447135229361072815
+    second: Fumiko_41
+  - first:
+      213: 8774143560641280700
+    second: Fumiko_42
+  - first:
+      213: -2758443679941686292
+    second: Fumiko_43
+  - first:
+      213: -5358785150156675650
+    second: Fumiko_44
+  - first:
+      213: 5333102689963079627
+    second: Fumiko_45
+  - first:
+      213: -2281400526286941001
+    second: Fumiko_46
+  - first:
+      213: 7065582192951854294
+    second: Fumiko_47
+  - first:
+      213: -7554847879729933539
+    second: Fumiko_48
+  - first:
+      213: 1772218028352397378
+    second: ItemDown3
+  - first:
+      213: 2778508207241165948
+    second: IdleLeft
+  - first:
+      213: 1773713262114721248
+    second: LeftWalk1
+  - first:
+      213: 5783534640239147863
+    second: LeftWalk2
+  - first:
+      213: 5490796491733139515
+    second: LeftUnarmed2
+  - first:
+      213: 7747876774194057062
+    second: Fumiko_54
+  - first:
+      213: -1354760704297998837
+    second: LeftUnarmed1
+  - first:
+      213: 5742042091335151141
+    second: Fumiko_56
+  - first:
+      213: 1160975500616787527
+    second: Fumiko_57
+  - first:
+      213: 8554480497082870014
+    second: Fumiko_58
+  - first:
+      213: 811289456083237019
+    second: Fumiko_59
+  - first:
+      213: -1783966780126170639
+    second: Fumiko_60
+  - first:
+      213: -704204024187887503
+    second: Fumiko_61
+  - first:
+      213: 136533962661631684
+    second: Fumiko_62
+  - first:
+      213: -9001074385493801344
+    second: Fumiko_63
+  - first:
+      213: -4938479164219456638
+    second: Fumiko_64
+  - first:
+      213: -5618512088620003169
+    second: Fumiko_65
+  - first:
+      213: 9099349738062832528
+    second: UpAttack1
+  - first:
+      213: -3365893266979125511
+    second: UpAttack2
+  - first:
+      213: -7866336138876478539
+    second: UpAttack3
+  - first:
+      213: 191402007180173284
+    second: UpAttack4
+  - first:
+      213: 5086364318139838395
+    second: UpAttack5
+  - first:
+      213: 3589118683940700362
+    second: UpAttackLeftHand1
+  - first:
+      213: 7236493196423593263
+    second: Fumiko_72
+  - first:
+      213: -2867997825520731676
+    second: Fumiko_73
+  - first:
+      213: 1105013364015331535
+    second: Fumiko_74
+  - first:
+      213: 3993706861860841472
+    second: Fumiko_75
+  - first:
+      213: -8574654961161241025
+    second: Fumiko_76
+  - first:
+      213: -2010056649006043387
+    second: Fumiko_77
+  - first:
+      213: 7056430855011432003
+    second: Fumiko_78
+  - first:
+      213: -3882916998277480637
+    second: Fumiko_79
+  - first:
+      213: -8699551482071890998
+    second: Fumiko_80
+  - first:
+      213: 4055179764070629343
+    second: Fumiko_81
+  - first:
+      213: -1194480390488184952
+    second: AttackRight1
+  - first:
+      213: 7396009672247968297
+    second: AttackRight2
+  - first:
+      213: 542374452521540944
+    second: AttackRight3
+  - first:
+      213: 486188135212179656
+    second: AttackRight4
+  - first:
+      213: -4430730892903704572
+    second: AttackRight5
+  - first:
+      213: -6677036430463029286
+    second: UpAttackLeftHand2
+  - first:
+      213: -6962573709074630391
+    second: Fumiko_88
+  - first:
+      213: 675546489090992881
+    second: Fumiko_89
+  - first:
+      213: -177383878522928117
+    second: Fumiko_90
+  - first:
+      213: 8927659276368141455
+    second: Fumiko_91
+  - first:
+      213: 893068402290253132
+    second: Fumiko_92
+  - first:
+      213: -6720871898250779851
+    second: Fumiko_93
+  - first:
+      213: 6906712173900230137
+    second: Fumiko_94
+  - first:
+      213: 948985033116210927
+    second: Fumiko_95
+  - first:
+      213: -4568426573161730259
+    second: Fumiko_96
+  - first:
+      213: -6263156049821534352
+    second: Fumiko_97
+  - first:
+      213: -2862067157151381644
+    second: AttackDown1
+  - first:
+      213: 4508992539067112596
+    second: AttackDown2
+  - first:
+      213: -5084626738126876664
+    second: AttackDown3
+  - first:
+      213: 2890143083587743954
+    second: AttackDown4
+  - first:
+      213: -1001292571736973128
+    second: AttackDown5
+  - first:
+      213: 2397108281901214061
+    second: UpAttackLeftHand3
+  - first:
+      213: -1971880235800429530
+    second: Fumiko_104
+  - first:
+      213: -242251974963894566
+    second: Fumiko_105
+  - first:
+      213: 8604187045447628429
+    second: Fumiko_106
+  - first:
+      213: -8475183829515780767
+    second: Fumiko_107
+  - first:
+      213: -4004894752499810100
+    second: Fumiko_108
+  - first:
+      213: -2057042651594422142
+    second: Fumiko_109
+  - first:
+      213: -106275099272477842
+    second: Fumiko_110
+  - first:
+      213: 2906878772186866438
+    second: Fumiko_111
+  - first:
+      213: -6034147272028930464
+    second: Fumiko_112
+  - first:
+      213: 7590794348576281253
+    second: Fumiko_113
+  - first:
+      213: 7715426657899543202
+    second: AttackLeft1
+  - first:
+      213: 2697719045978857117
+    second: AttackLeft2
+  - first:
+      213: 7254611394063297136
+    second: AttackLeft3
+  - first:
+      213: 6954589572234023430
+    second: AttackLeft4
+  - first:
+      213: -4844952104214978406
+    second: AttackLeft5
+  - first:
+      213: -7511480571616692936
+    second: UpAttackLeftHand4
+  - first:
+      213: 3189697946326937581
+    second: Fumiko_120
+  - first:
+      213: 2066141017290926853
+    second: Fumiko_121
+  - first:
+      213: 999571845066406968
+    second: Fumiko_122
+  - first:
+      213: -5719774612291093870
+    second: Fumiko_123
+  - first:
+      213: -4865297410303257428
+    second: Fumiko_124
+  - first:
+      213: 647862747829358199
+    second: Fumiko_125
+  - first:
+      213: 3394256821004154651
+    second: Fumiko_126
+  - first:
+      213: -308079322063659168
+    second: Fumiko_127
+  - first:
+      213: 2487900509879849481
+    second: Fumiko_128
+  - first:
+      213: 586241144470320901
+    second: Fumiko_129
+  - first:
+      213: -6443384746499670091
+    second: Fumiko_130
+  - first:
+      213: 6534975119584895872
+    second: Fumiko_131
+  - first:
+      213: -7965742933223186479
+    second: Fumiko_132
+  - first:
+      213: 3733417068024421339
+    second: Fumiko_133
+  - first:
+      213: 8012517901353424216
+    second: Fumiko_134
+  - first:
+      213: -142848303851798379
+    second: Fumiko_135
+  - first:
+      213: -8693101687432089070
+    second: Fumiko_136
+  - first:
+      213: -7804253102294208500
+    second: Fumiko_137
+  - first:
+      213: 5390453980463954677
+    second: Fumiko_138
+  - first:
+      213: 1082432928875599136
+    second: Fumiko_139
+  - first:
+      213: 3858839627069470773
+    second: Fumiko_140
+  - first:
+      213: -8753860648352426008
+    second: Fumiko_141
+  - first:
+      213: 1315808962898220381
+    second: Fumiko_142
+  - first:
+      213: -2280265134164621505
+    second: Fumiko_143
+  - first:
+      213: -238191955118228998
+    second: Fumiko_144
+  - first:
+      213: -8392478736584160933
+    second: Fumiko_145
+  - first:
+      213: 2414418781425040001
+    second: Fumiko_146
+  - first:
+      213: 9122792449047101771
+    second: Fumiko_147
+  - first:
+      213: 327807363807907057
+    second: Fumiko_148
+  - first:
+      213: -4147739026328743327
+    second: Fumiko_149
+  - first:
+      213: -3119267906865000659
+    second: Fumiko_150
+  - first:
+      213: -4781309455612930852
+    second: Fumiko_151
+  - first:
+      213: -8222350253517378069
+    second: Fumiko_152
+  - first:
+      213: -454078607531612894
+    second: Fumiko_153
+  - first:
+      213: -4303583099627824599
+    second: Fumiko_154
+  - first:
+      213: -6861860494990077548
+    second: Fumiko_155
+  - first:
+      213: 6263077842615233244
+    second: Fumiko_156
+  - first:
+      213: 1437664668533795870
+    second: Fumiko_157
+  - first:
+      213: 9115186462246308455
+    second: Fumiko_158
+  - first:
+      213: -2020771712293020461
+    second: Fumiko_159
+  - first:
+      213: 7237943126776623063
+    second: Fumiko_160
+  - first:
+      213: 8644013710737150719
+    second: Fumiko_161
+  - first:
+      213: 2716297106102742474
+    second: Fumiko_162
+  - first:
+      213: 1304330622406537399
+    second: Fumiko_163
+  - first:
+      213: 2115898490977220488
+    second: Fumiko_164
+  - first:
+      213: 861323185299522159
+    second: Fumiko_165
+  - first:
+      213: 4245217184752129024
+    second: Fumiko_166
+  - first:
+      213: -1247905636292903722
+    second: Fumiko_167
+  - first:
+      213: 5561515025567418444
+    second: Fumiko_168
+  - first:
+      213: -8725822440247668461
+    second: Fumiko_169
+  - first:
+      213: -1881140898567768087
+    second: Fumiko_170
+  - first:
+      213: -3819325392318852374
+    second: Fumiko_171
+  - first:
+      213: -5219083771806575170
+    second: Fumiko_172
+  - first:
+      213: -5685354194644234705
+    second: Fumiko_173
+  - first:
+      213: 8140434022240742337
+    second: Fumiko_174
+  - first:
+      213: 6855165341391051231
+    second: Fumiko_175
+  - first:
+      213: 661353471703620617
+    second: Fumiko_176
+  - first:
+      213: -6818547202805850166
+    second: Fumiko_177
+  - first:
+      213: -2804449075375791479
+    second: Fumiko_178
+  - first:
+      213: 3935794606457737868
+    second: Fumiko_179
+  - first:
+      213: 7584854397741774165
+    second: Fumiko_180
+  - first:
+      213: -3800511862398793500
+    second: Fumiko_181
+  - first:
+      213: -4445036851751223677
+    second: Fumiko_182
+  - first:
+      213: -5560536748405781916
+    second: Fumiko_183
+  - first:
+      213: -8620073055346088105
+    second: Fumiko_184
+  - first:
+      213: -552357438604485834
+    second: Fumiko_185
+  - first:
+      213: 5921969124155448210
+    second: Fumiko_186
+  - first:
+      213: -5311084419875700923
+    second: Fumiko_187
+  - first:
+      213: 7366351040918573258
+    second: Fumiko_188
+  - first:
+      213: 1991570230019311398
+    second: Fumiko_189
+  - first:
+      213: -3542605154492467297
+    second: Fumiko_190
+  - first:
+      213: -4209504467299556025
+    second: Fumiko_191
+  - first:
+      213: 6259284372799193891
+    second: Fumiko_192
+  - first:
+      213: 3470728709937053361
+    second: Fumiko_193
+  - first:
+      213: 8415355173286555038
+    second: Fumiko_194
+  - first:
+      213: 8486824304466112863
+    second: Fumiko_195
+  - first:
+      213: -2822019906009849707
+    second: Fumiko_196
+  - first:
+      213: -1793112060906244790
+    second: Fumiko_197
+  - first:
+      213: -7009904949433443727
+    second: Fumiko_198
+  - first:
+      213: 3659659539895397525
+    second: Fumiko_199
+  - first:
+      213: -2272711729195579390
+    second: Fumiko_200
+  - first:
+      213: 4524008486601629484
+    second: Fumiko_201
+  - first:
+      213: -4608528573250301948
+    second: Fumiko_202
+  - first:
+      213: 1687320896165140463
+    second: Fumiko_203
+  - first:
+      213: -7069097451460655752
+    second: Fumiko_204
+  - first:
+      213: -5775597399545990397
+    second: Fumiko_205
+  - first:
+      213: -3495791451325557749
+    second: Fumiko_206
+  - first:
+      213: 2615673181535019128
+    second: Fumiko_207
+  - first:
+      213: -5002204231739496148
+    second: Fumiko_208
+  - first:
+      213: -5957538607275937653
+    second: Fumiko_209
+  - first:
+      213: -6116835112721492440
+    second: Fumiko_210
+  - first:
+      213: -8191010446672684664
+    second: Fumiko_211
+  - first:
+      213: 9183163417643602802
+    second: Fumiko_212
+  - first:
+      213: 8506197966487264414
+    second: Fumiko_213
+  - first:
+      213: 7631825243387450996
+    second: Fumiko_214
+  - first:
+      213: 8111564749639458826
+    second: Fumiko_215
+  - first:
+      213: 1737954649408476293
+    second: Fumiko_216
+  - first:
+      213: 7272194091954055579
+    second: Fumiko_217
+  - first:
+      213: 6242449061835231284
+    second: Fumiko_218
+  - first:
+      213: -5805119884144738379
+    second: Fumiko_219
+  - first:
+      213: 1275587826145085616
+    second: Fumiko_220
+  - first:
+      213: 1253195485283364902
+    second: Fumiko_221
+  - first:
+      213: -240583530444947995
+    second: Fumiko_222
+  - first:
+      213: 3327883610115565874
+    second: Fumiko_223
+  - first:
+      213: -1915693640302754638
+    second: Fumiko_224
+  - first:
+      213: 1829806595645224083
+    second: Fumiko_225
+  - first:
+      213: 845034218628284732
+    second: Fumiko_226
+  - first:
+      213: -6723212461166762151
+    second: Fumiko_227
+  - first:
+      213: 8214282262096907677
+    second: Fumiko_228
+  - first:
+      213: -2787784978356143360
+    second: Fumiko_229
+  - first:
+      213: -1216212650849917235
+    second: Fumiko_230
+  - first:
+      213: 8491934855105575984
+    second: Fumiko_231
+  - first:
+      213: 7390416052099707720
+    second: Fumiko_232
+  - first:
+      213: -7597042632663065168
+    second: Fumiko_233
+  - first:
+      213: 6968282959340583319
+    second: Fumiko_234
+  - first:
+      213: -7825331375419817059
+    second: Fumiko_235
+  - first:
+      213: 7832843734994649657
+    second: Fumiko_236
+  - first:
+      213: 8978336969758281157
+    second: Fumiko_237
+  - first:
+      213: 8452413268198566618
+    second: Fumiko_238
+  - first:
+      213: -4870108984929336381
+    second: Fumiko_239
+  - first:
+      213: 8903327913854996580
+    second: Fumiko_240
+  - first:
+      213: -221401958995711134
+    second: Fumiko_241
+  - first:
+      213: -1825521714151624162
+    second: Fumiko_242
+  - first:
+      213: 8423614019378692687
+    second: Fumiko_243
+  - first:
+      213: 8055417986374935360
+    second: Fumiko_244
+  - first:
+      213: 6618340834001821959
+    second: Fumiko_245
+  - first:
+      213: -8188302388616145616
+    second: Fumiko_246
+  - first:
+      213: -8860299853903770951
+    second: Fumiko_247
+  - first:
+      213: -1734305598392285421
+    second: Fumiko_248
+  - first:
+      213: -7922382899973527279
+    second: Fumiko_249
+  - first:
+      213: -1477033509121862154
+    second: Fumiko_250
+  - first:
+      213: -6498098487922108045
+    second: Fumiko_251
+  - first:
+      213: -5383064008790533403
+    second: Fumiko_252
+  - first:
+      213: 4751066101371295233
+    second: Fumiko_253
+  - first:
+      213: 3458261675738967003
+    second: Fumiko_254
+  - first:
+      213: -4497342417206252340
+    second: Fumiko_255
+  - first:
+      213: -3106899318603492860
+    second: Fumiko_256
+  - first:
+      213: -4740516807026458267
+    second: Fumiko_257
+  - first:
+      213: 8121181596307899478
+    second: Fumiko_258
+  - first:
+      213: -5220796156542455473
+    second: Fumiko_259
+  - first:
+      213: 5989944178967912426
+    second: Fumiko_260
+  - first:
+      213: 2595770784463133227
+    second: Fumiko_261
+  - first:
+      213: -5137871864494708315
+    second: Fumiko_262
+  - first:
+      213: -401239408887566131
+    second: Fumiko_263
+  - first:
+      213: 3647884522095224910
+    second: Fumiko_264
+  - first:
+      213: -8521059616469616184
+    second: Fumiko_265
+  - first:
+      213: -4889417878303772275
+    second: Fumiko_266
+  - first:
+      213: 1154294105810593856
+    second: Fumiko_267
+  - first:
+      213: -8777068410805426369
+    second: Fumiko_268
+  - first:
+      213: -292584278881666011
+    second: Fumiko_269
+  - first:
+      213: -1412137382449051732
+    second: Fumiko_270
+  - first:
+      213: -8519385671898606516
+    second: Fumiko_271
+  - first:
+      213: 4131199470762132085
+    second: Fumiko_272
+  - first:
+      213: 6267647282799082920
+    second: Fumiko_273
+  - first:
+      213: -8645354386165512919
+    second: Fumiko_274
+  - first:
+      213: -2817899496042765419
+    second: Fumiko_275
+  - first:
+      213: 7541702621336070535
+    second: Fumiko_276
+  - first:
+      213: -2129401283583897816
+    second: Fumiko_277
+  - first:
+      213: -5833824701263658222
+    second: Fumiko_278
+  - first:
+      213: 6367293593295343147
+    second: Fumiko_279
+  - first:
+      213: 3436796043078819328
+    second: Fumiko_280
+  - first:
+      213: -378547662211635440
+    second: Fumiko_281
+  - first:
+      213: 7886184491088091672
+    second: Fumiko_282
+  - first:
+      213: -8748540876529231395
+    second: Fumiko_283
+  - first:
+      213: 7382341325021318216
+    second: Fumiko_284
+  - first:
+      213: 2672450426614964057
+    second: Fumiko_285
+  - first:
+      213: 461876116561782304
+    second: Fumiko_286
+  - first:
+      213: 1634949055880787339
+    second: Fumiko_287
+  - first:
+      213: -951239319947192854
+    second: Fumiko_288
+  - first:
+      213: -3083038429352087913
+    second: Fumiko_289
+  - first:
+      213: 2967687819780910662
+    second: Fumiko_290
+  - first:
+      213: 7667820972110610682
+    second: Fumiko_291
+  - first:
+      213: -1997481266520469601
+    second: Fumiko_292
+  - first:
+      213: -6468846051744972726
+    second: Fumiko_293
+  - first:
+      213: -8846289768491570968
+    second: Fumiko_294
+  - first:
+      213: -5789045913959198427
+    second: Fumiko_295
+  - first:
+      213: -7959299856317938908
+    second: Fumiko_296
+  - first:
+      213: -4328197410698344112
+    second: Fumiko_297
+  - first:
+      213: 1592505178279428787
+    second: Fumiko_298
+  - first:
+      213: 4298830889698391684
+    second: Fumiko_299
+  - first:
+      213: -9178068386294739648
+    second: Fumiko_300
+  - first:
+      213: -2778436943540948519
+    second: Fumiko_301
+  - first:
+      213: -902693126320923137
+    second: Fumiko_302
+  - first:
+      213: -6464346113873707789
+    second: Fumiko_303
+  - first:
+      213: 2623455041564290385
+    second: Fumiko_304
+  - first:
+      213: -8194262728332715284
+    second: Fumiko_305
+  - first:
+      213: -4466829533714719693
+    second: Fumiko_306
+  - first:
+      213: 914870967948697955
+    second: Fumiko_307
+  - first:
+      213: 5609452902741983034
+    second: Fumiko_308
+  - first:
+      213: 2232008686805957647
+    second: Fumiko_309
+  - first:
+      213: 1354024549246369717
+    second: Fumiko_310
+  - first:
+      213: 8973980478945186838
+    second: Fumiko_311
+  - first:
+      213: -6340086716994577439
+    second: Fumiko_312
+  - first:
+      213: 1421391725893853625
+    second: Fumiko_313
+  - first:
+      213: -8256788280892846991
+    second: Fumiko_314
+  - first:
+      213: 6492753796208039038
+    second: Fumiko_315
+  - first:
+      213: 2264809020862163909
+    second: Fumiko_316
+  - first:
+      213: -3736472996736004643
+    second: Fumiko_317
+  - first:
+      213: -4486171737031638054
+    second: Fumiko_318
+  - first:
+      213: 6706062551695559611
+    second: Fumiko_319
+  - first:
+      213: 4749573584401709128
+    second: Fumiko_320
+  - first:
+      213: 8298971960979871535
+    second: Fumiko_321
+  - first:
+      213: 33961900771654425
+    second: Fumiko_322
+  - first:
+      213: -919652711030514682
+    second: Fumiko_323
+  - first:
+      213: -2720219409003652330
+    second: Fumiko_324
+  - first:
+      213: -3079634886082369503
+    second: Fumiko_325
+  - first:
+      213: 6498864531005872972
+    second: Fumiko_326
+  - first:
+      213: 9129651382162565398
+    second: Fumiko_327
+  - first:
+      213: 2071957398632143395
+    second: Fumiko_328
+  - first:
+      213: 7878239646165128990
+    second: Fumiko_329
+  - first:
+      213: -7149572680898902117
+    second: Fumiko_330
+  - first:
+      213: 4158730471448366474
+    second: Fumiko_331
+  - first:
+      213: -7822894935110597188
+    second: Fumiko_332
+  - first:
+      213: -435740016997302727
+    second: Fumiko_333
+  - first:
+      213: -7391073691975558912
+    second: Fumiko_334
+  - first:
+      213: 2687022967059109236
+    second: Fumiko_335
+  - first:
+      213: 2166582427358456457
+    second: Fumiko_336
+  - first:
+      213: 2400628783594336102
+    second: Fumiko_337
+  - first:
+      213: -1917827481338264686
+    second: Fumiko_338
+  - first:
+      213: -5327893967806133401
+    second: Fumiko_339
+  - first:
+      213: 2737462096778641925
+    second: Fumiko_340
+  - first:
+      213: 349398122644080722
+    second: Fumiko_341
+  - first:
+      213: -4408346362287927458
+    second: Fumiko_342
+  - first:
+      213: 4769780607820367541
+    second: Fumiko_343
+  - first:
+      213: -2824536059204212722
+    second: Fumiko_344
+  - first:
+      213: -7033351306167667425
+    second: Fumiko_345
+  - first:
+      213: -7904719287875827444
+    second: Fumiko_346
+  - first:
+      213: 2057786725383688543
+    second: Fumiko_347
+  - first:
+      213: -6202196092451453552
+    second: Fumiko_348
+  - first:
+      213: 3302200322474002770
+    second: Fumiko_349
+  - first:
+      213: 2830324307576966814
+    second: Fumiko_350
+  - first:
+      213: -8697874423168509338
+    second: Fumiko_351
+  - first:
+      213: 467009396544853192
+    second: Fumiko_352
+  - first:
+      213: 6909997718991865537
+    second: Fumiko_353
+  - first:
+      213: 6980860568950277423
+    second: Fumiko_354
+  - first:
+      213: 3543112854686695635
+    second: Fumiko_355
+  - first:
+      213: -1894390829239419960
+    second: Fumiko_356
+  - first:
+      213: -426847854697578461
+    second: Fumiko_357
+  - first:
+      213: -2597387473653336229
+    second: Fumiko_358
+  - first:
+      213: -8302623774103864824
+    second: Fumiko_359
+  - first:
+      213: 5284208339058365634
+    second: Fumiko_360
+  - first:
+      213: 1058839164321149992
+    second: Fumiko_361
+  - first:
+      213: 6040708664356471790
+    second: Fumiko_362
+  - first:
+      213: -557413088894957071
+    second: Fumiko_363
+  - first:
+      213: 1735160642020045908
+    second: Fumiko_364
+  - first:
+      213: 407043158418163292
+    second: Fumiko_365
+  - first:
+      213: -7386178925892778618
+    second: Fumiko_366
+  - first:
+      213: 8996825333324738283
+    second: Fumiko_367
+  - first:
+      213: 57054929416073121
+    second: Fumiko_368
+  - first:
+      213: 5511829259052634279
+    second: Fumiko_369
+  - first:
+      213: 135839173593322050
+    second: Fumiko_370
+  - first:
+      213: 2768280532140193751
+    second: Fumiko_371
+  - first:
+      213: 383763617689187104
+    second: Fumiko_372
+  - first:
+      213: 2743379348493880024
+    second: Fumiko_373
+  - first:
+      213: 4333226234061998551
+    second: Fumiko_374
+  - first:
+      213: 513028663128159282
+    second: Fumiko_375
+  - first:
+      213: -6543717710713276914
+    second: Fumiko_376
+  - first:
+      213: 8364890804077833488
+    second: Fumiko_377
+  - first:
+      213: 5360603714324949908
+    second: Fumiko_378
+  - first:
+      213: -8420036356709328517
+    second: Fumiko_379
+  - first:
+      213: -8117144947147881085
+    second: Fumiko_380
+  - first:
+      213: -418437316011255894
+    second: Fumiko_381
+  - first:
+      213: -2358836170566648121
+    second: Fumiko_382
+  - first:
+      213: -8967433776276039297
+    second: Fumiko_383
+  - first:
+      213: -1155686169913815187
+    second: Fumiko_384
+  - first:
+      213: -2419601639654283900
+    second: UpWalk1
+  - first:
+      213: -1689717178128468570
+    second: IdleUp
+  - first:
+      213: -6484590385035569965
+    second: UpWalk2
+  - first:
+      213: -7892760304204497559
+    second: UpRun1
+  - first:
+      213: 2705341182474222566
+    second: Fumiko_4
+  - first:
+      213: 2608721624042818458
+    second: UpRun2
+  - first:
+      213: -2815936836747475989
+    second: Fumiko_6
+  - first:
+      213: 4109650494384776891
+    second: Fumiko_7
+  - first:
+      213: -5514859915828137578
+    second: Fumiko_8
+  - first:
+      213: -9094542988738193924
+    second: Fumiko_9
+  - first:
+      213: 6940865711717887182
+    second: Fumiko_10
+  - first:
+      213: 1842068129294216236
+    second: Fumiko_11
+  - first:
+      213: 1144576495673028104
+    second: Fumiko_12
+  - first:
+      213: -3185783071974204140
+    second: Fumiko_13
+  - first:
+      213: -7086930148402979542
+    second: Fumiko_14
+  - first:
+      213: 4181314078559429013
+    second: ItemDown2
+  - first:
+      213: 3189958964865126137
+    second: RightWalk1
+  - first:
+      213: 5693039417436633719
+    second: RightWalk2
+  - first:
+      213: -2490695550715034742
+    second: IdleRight
+  - first:
+      213: -701609949673526403
+    second: RightUnamers1
+  - first:
+      213: 3063213234981412993
+    second: Fumiko_20
+  - first:
+      213: 2561623950174174915
+    second: RightUnarmed2
+  - first:
+      213: 6554258276104057763
+    second: Fumiko_22
+  - first:
+      213: 7454352708689409029
+    second: Fumiko_23
+  - first:
+      213: 1354018519249920861
+    second: Fumiko_24
+  - first:
+      213: -6145132620992955115
+    second: Fumiko_25
+  - first:
+      213: -599041325064661846
+    second: Fumiko_26
+  - first:
+      213: -2068599717235462871
+    second: Fumiko_27
+  - first:
+      213: -5384605760402436377
+    second: Fumiko_28
+  - first:
+      213: -3928098759133455807
+    second: Fumiko_29
+  - first:
+      213: -8428777950489314159
+    second: Fumiko_30
+  - first:
+      213: -2449404686087110578
+    second: Fumiko_31
+  - first:
+      213: -903305355738105497
+    second: ItemDown
+  - first:
+      213: -3495135812748302166
+    second: DownWalk1
+  - first:
+      213: 3373184300522333257
+    second: IdleDown
+  - first:
+      213: -3214957492458088884
+    second: DownWalk2
+  - first:
+      213: 3412730839520374848
+    second: DownRun1
+  - first:
+      213: -8474131282674581633
+    second: Fumiko_37
+  - first:
+      213: 4589819189724470934
+    second: DownRun2
+  - first:
+      213: 6261551763298802602
+    second: Fumiko_39
+  - first:
+      213: -5139784516944616515
+    second: Fumiko_40
+  - first:
+      213: -3693137973568656408
+    second: Fumiko_41
+  - first:
+      213: 4008994897427681240
+    second: Fumiko_42
+  - first:
+      213: 2006561162934355723
+    second: Fumiko_43
+  - first:
+      213: -1426709272178569612
+    second: Fumiko_44
+  - first:
+      213: 561316201714431536
+    second: Fumiko_45
+  - first:
+      213: -5979031326151100765
+    second: Fumiko_46
+  - first:
+      213: 7121792865413635571
+    second: Fumiko_47
+  - first:
+      213: -1637822193758216113
+    second: Fumiko_48
+  - first:
+      213: -360743194798795638
+    second: ItemDown3
+  - first:
+      213: 5496678308347558282
+    second: IdleLeft
+  - first:
+      213: -6042092398590123551
+    second: LeftWalk1
+  - first:
+      213: 2917182078931818683
+    second: LeftWalk2
+  - first:
+      213: 5988561489146254124
+    second: LeftUnarmed2
+  - first:
+      213: 3930464688737088161
+    second: Fumiko_54
+  - first:
+      213: -5533287595863583435
+    second: LeftUnarmed1
+  - first:
+      213: 4035011146333269272
+    second: Fumiko_56
+  - first:
+      213: 3147223355006072400
+    second: Fumiko_57
+  - first:
+      213: -4835487800292398612
+    second: Fumiko_58
+  - first:
+      213: -7539331415393293552
+    second: Fumiko_59
+  - first:
+      213: 3617493696926145198
+    second: Fumiko_60
+  - first:
+      213: 6423647890207312938
+    second: Fumiko_61
+  - first:
+      213: 2534961320854080235
+    second: Fumiko_62
+  - first:
+      213: -8715272161434304590
+    second: Fumiko_63
+  - first:
+      213: 540105565859819963
+    second: Fumiko_64
+  - first:
+      213: -8414128590649815659
+    second: Fumiko_65
+  - first:
+      213: -2521811537354155982
+    second: UpAttack1
+  - first:
+      213: -8596059798949137584
+    second: UpAttack2
+  - first:
+      213: 2866007346764066812
+    second: UpAttack3
+  - first:
+      213: 4690531381098057850
+    second: UpAttack4
+  - first:
+      213: -2564239093906940577
+    second: UpAttack5
+  - first:
+      213: 9212415727069489390
+    second: UpAttackLeftHand1
+  - first:
+      213: -8994363889281401510
+    second: Fumiko_72
+  - first:
+      213: 2527197447534626281
+    second: Fumiko_73
+  - first:
+      213: 3061029659943871085
+    second: Fumiko_74
+  - first:
+      213: 7018361072998857470
+    second: Fumiko_75
+  - first:
+      213: -4654131498642885053
+    second: Fumiko_76
+  - first:
+      213: 7206543469993144088
+    second: Fumiko_77
+  - first:
+      213: -4277095520087287693
+    second: Fumiko_78
+  - first:
+      213: 6422279053840050097
+    second: Fumiko_79
+  - first:
+      213: 8034206481541791650
+    second: Fumiko_80
+  - first:
+      213: -6694870076321841739
+    second: Fumiko_81
+  - first:
+      213: -3853574013619228979
+    second: AttackRight1
+  - first:
+      213: -2828424798284562954
+    second: AttackRight2
+  - first:
+      213: 5233208999671479179
+    second: AttackRight3
+  - first:
+      213: 8659105118569081779
+    second: AttackRight4
+  - first:
+      213: -2809228209141394366
+    second: AttackRight5
+  - first:
+      213: 6245134859040811713
+    second: UpAttackLeftHand2
+  - first:
+      213: 7123001551731340945
+    second: Fumiko_88
+  - first:
+      213: 4778927212609413051
+    second: Fumiko_89
+  - first:
+      213: -6085906210111818228
+    second: Fumiko_90
+  - first:
+      213: -5057322677955021347
+    second: Fumiko_91
+  - first:
+      213: 6315445280037042563
+    second: Fumiko_92
+  - first:
+      213: 3456502960540132401
+    second: Fumiko_93
+  - first:
+      213: -1749835180180977242
+    second: Fumiko_94
+  - first:
+      213: -8204896538200844159
+    second: Fumiko_95
+  - first:
+      213: -6303659023844628152
+    second: Fumiko_96
+  - first:
+      213: -1979511675136691762
+    second: Fumiko_97
+  - first:
+      213: 6428609186019058703
+    second: AttackDown1
+  - first:
+      213: 7133571400834108796
+    second: AttackDown2
+  - first:
+      213: 1345804828243536073
+    second: AttackDown3
+  - first:
+      213: 4623335912113234333
+    second: AttackDown4
+  - first:
+      213: 3527198991104762635
+    second: AttackDown5
+  - first:
+      213: 4202855276091219226
+    second: UpAttackLeftHand3
+  - first:
+      213: -3361736523901571991
+    second: Fumiko_104
+  - first:
+      213: -5325847877808985540
+    second: Fumiko_105
+  - first:
+      213: 8282534458923729328
+    second: Fumiko_106
+  - first:
+      213: 9138244926697503191
+    second: Fumiko_107
+  - first:
+      213: -9070395085261405498
+    second: Fumiko_108
+  - first:
+      213: -7942783285759357421
+    second: Fumiko_109
+  - first:
+      213: 534436175219843411
+    second: Fumiko_110
+  - first:
+      213: -5918789084132149884
+    second: Fumiko_111
+  - first:
+      213: 7124672358941641718
+    second: Fumiko_112
+  - first:
+      213: -4393879611667833465
+    second: Fumiko_113
+  - first:
+      213: 8049428732854221823
+    second: AttackLeft1
+  - first:
+      213: -5925873418077674994
+    second: AttackLeft2
+  - first:
+      213: 6527724224032596403
+    second: AttackLeft3
+  - first:
+      213: 2612457331684397222
+    second: AttackLeft4
+  - first:
+      213: 922221099707813096
+    second: AttackLeft5
+  - first:
+      213: 462438418493478133
+    second: UpAttackLeftHand4
+  - first:
+      213: -4123857477866944647
+    second: Fumiko_120
+  - first:
+      213: 3440045223501788730
+    second: Fumiko_121
+  - first:
+      213: -2178097100371154503
+    second: Fumiko_122
+  - first:
+      213: 2335600156980118134
+    second: Fumiko_123
+  - first:
+      213: 6879012633166560171
+    second: Fumiko_124
+  - first:
+      213: 676118225909496143
+    second: Fumiko_125
+  - first:
+      213: 7876935966771708928
+    second: Fumiko_126
+  - first:
+      213: -5395944140516773681
+    second: Fumiko_127
+  - first:
+      213: 7986965716109944258
+    second: Fumiko_128
+  - first:
+      213: 9212415727069489390
+    second: AltUpAttack1
+  - first:
+      213: -3853574013619228979
+    second: RightAttack1
+  - first:
+      213: -2828424798284562954
+    second: RightAttack2
+  - first:
+      213: 5233208999671479179
+    second: RightAttack3
+  - first:
+      213: 8659105118569081779
+    second: RightAttack4
+  - first:
+      213: -2809228209141394366
+    second: RightAttack5
+  - first:
+      213: 6245134859040811713
+    second: AltUpAttack2
+  - first:
+      213: 6428609186019058703
+    second: DownAttack1
+  - first:
+      213: 7133571400834108796
+    second: DownAttack2
+  - first:
+      213: 1345804828243536073
+    second: DownAttack3
+  - first:
+      213: 4623335912113234333
+    second: DownAttack4
+  - first:
+      213: 3527198991104762635
+    second: DownAttack5
+  - first:
+      213: 4202855276091219226
+    second: AltUpAttack3
+  - first:
+      213: 8049428732854221823
+    second: LeftAttack1
+  - first:
+      213: -5925873418077674994
+    second: LeftAttack2
+  - first:
+      213: 6527724224032596403
+    second: LeftAttack3
+  - first:
+      213: 2612457331684397222
+    second: LeftAttack4
+  - first:
+      213: 922221099707813096
+    second: LeftAttack5
+  - first:
+      213: 462438418493478133
+    second: AltUpAttack4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fumiko_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d568fcc23d9c3d0800000000000000
+      internalID: -3185783071974204140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1f64049a26ad90800000000000000
+      internalID: -7086930148402979542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c70729c17f60b80800000000000000
+      internalID: -8428777950489314159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd14e2d0e0b5d260800000000000000
+      internalID: 7121792865413635571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1394a8627de7700800000000000000
+      internalID: 540105565859819963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltUpAttack1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e2375b4319df70800000000000000
+      internalID: 9212415727069489390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightAttack1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceac8a0ada558ac0800000000000000
+      internalID: -3853574013619228979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightAttack2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb750b1aa6fb8d0800000000000000
+      internalID: -2828424798284562954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightAttack3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bbbc4cbd710a840800000000000000
+      internalID: 5233208999671479179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightAttack4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba3193a325b2870800000000000000
+      internalID: 8659105118569081779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightAttack5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244de15e3dd9309d0800000000000000
+      internalID: -2809228209141394366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltUpAttack2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca698fe01d2ba650800000000000000
+      internalID: 6245134859040811713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04aa749ef1073950800000000000000
+      internalID: 6428609186019058703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d4a9ec4698ff260800000000000000
+      internalID: 7133571400834108796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c826746c524da210800000000000000
+      internalID: 1345804828243536073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e0de3483692040800000000000000
+      internalID: 4623335912113234333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b036ae46bc023f030800000000000000
+      internalID: 3527198991104762635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltUpAttack3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d1bcd1b9a835a30800000000000000
+      internalID: 4202855276091219226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb399ae8c055bf60800000000000000
+      internalID: 8049428732854221823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02ec8bd58113cda0800000000000000
+      internalID: -5925873418077674994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ec2da892279a50800000000000000
+      internalID: 6527724224032596403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d9ed0a10514420800000000000000
+      internalID: 2612457331684397222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAttack5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec447c34336ccc00800000000000000
+      internalID: 922221099707813096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AltUpAttack4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f41cc0aa49ea6600800000000000000
+      internalID: 462438418493478133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c66a23437509910800000000000000
+      internalID: 1842068129294216236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e2ad2324a52ef00800000000000000
+      internalID: 1144576495673028104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eec0bbf6990645b0800000000000000
+      internalID: -5384605760402436377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a92339df69c79c0800000000000000
+      internalID: -3928098759133455807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40c99e5a67f10ed0800000000000000
+      internalID: -2449404686087110578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpWalk1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485247ad029db6ed0800000000000000
+      internalID: -2419601639654283900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleUp
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5f6c2dd2bec88e0800000000000000
+      internalID: -1689717178128468570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpWalk2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d49a02d66b1206a0800000000000000
+      internalID: -6484590385035569965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpRun1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d369a2258477290800000000000000
+      internalID: -7892760304204497559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb7c91d87d4b8520800000000000000
+      internalID: 2705341182474222566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpRun2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a922a4b40ceae4e0800000000000000
+      internalID: -1951487983557138016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb12e3ff8d77f30800000000000000
+      internalID: 4573362537388687282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe240e203d7fa5e70800000000000000
+      internalID: 9104862082341290735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d07148fa014c940800000000000000
+      internalID: 5315391806225452420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f943dc94bdf1bb80800000000000000
+      internalID: -8380638479392749064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65058f39c12d0680800000000000000
+      internalID: -8787330149692144275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemDown2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb952ceefd5da7110800000000000000
+      internalID: 1259554203563612604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fecbd407c2054c20800000000000000
+      internalID: 3189958964865126137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightWalk2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a7b98ef2db10f40800000000000000
+      internalID: 5693039417436633719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRight
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a830cf7c7954f6dd0800000000000000
+      internalID: -2490695550715034742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUnamers1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b64d2d7716346f0800000000000000
+      internalID: -701609949673526403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180a7562538b28a20800000000000000
+      internalID: 3063213234981412993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUnarmed2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2082dd24088390800000000000000
+      internalID: -7815992558449841511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c22a4c8f163040800000000000000
+      internalID: 4626920354569438321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6555e608f423b9360800000000000000
+      internalID: 7177385748183536982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9fe6a622e042f00800000000000000
+      internalID: 1091012550707837366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b5e49a75b4e35e0800000000000000
+      internalID: -1928020750593270977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f1a075a677352b0800000000000000
+      internalID: -5596998613280874597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b015c9ae49c246130800000000000000
+      internalID: 3559018623632429323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemDown
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ea06cf83f06a4b0800000000000000
+      internalID: -5429635563321774550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownWalk1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c3071e789e3fcd0800000000000000
+      internalID: -2525418196212630378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDown
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df5cc638e79ba10800000000000000
+      internalID: 1925709418608328035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownWalk2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644c254968af09980800000000000000
+      internalID: -8534045837946076090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownRun1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544110345b7e96030800000000000000
+      internalID: 3488574152074400837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd134c8f841ca1dc0800000000000000
+      internalID: -3667406427384434209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownRun2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9120a611ca4bb80800000000000000
+      internalID: -8379883815836706380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ecacd295d3b22d0800000000000000
+      internalID: -3302478448516477342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8923d377292d85570800000000000000
+      internalID: 8455739826895663768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa29fc2553d87950800000000000000
+      internalID: 6447135229361072815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbafd4cb41504c970800000000000000
+      internalID: 8774143560641280700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb8724861a08b9d0800000000000000
+      internalID: -2758443679941686292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5e5494c45c1a5b0800000000000000
+      internalID: -5358785150156675650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7fde9f3acf20a40800000000000000
+      internalID: 5333102689963079627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_46
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b417480f46d650e0800000000000000
+      internalID: -2281400526286941001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13959471e9c72790800000000000000
+      internalID: -7554847879729933539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemDown3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ec7c38ee289810800000000000000
+      internalID: 1772218028352397378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfd1a4e7e3f8620800000000000000
+      internalID: 2778508207241165948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftWalk1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed4fb970de7d9810800000000000000
+      internalID: 1773713262114721248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftWalk2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bfe91ec1e334050800000000000000
+      internalID: 5783534640239147863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftUnarmed2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3007b7515a333c40800000000000000
+      internalID: 5490796491733139515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f065940ecf58b60800000000000000
+      internalID: 7747876774194057062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftUnarmed1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06e8a8315ce23de0800000000000000
+      internalID: -1354760704297998837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e6f530cd4dfaf40800000000000000
+      internalID: 5742042091335151141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746e133111d9c1010800000000000000
+      internalID: 1160975500616787527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8a1a240be97b670800000000000000
+      internalID: 8554480497082870014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b987cdf3677424b00800000000000000
+      internalID: 811289456083237019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f17b735aa31e37e0800000000000000
+      internalID: -1783966780126170639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17061e8cb2a2a36f0800000000000000
+      internalID: -704204024187887503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c619386ae015e100800000000000000
+      internalID: 136533962661631684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_63
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08646cf3982c51380800000000000000
+      internalID: -9001074385493801344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90119706090702b0800000000000000
+      internalID: -5618512088620003169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09367485062674e70800000000000000
+      internalID: 9099349738062832528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f684dd28e1f941d0800000000000000
+      internalID: -3365893266979125511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb137695f825d290800000000000000
+      internalID: -7866336138876478539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef55478c1ff7a200800000000000000
+      internalID: 191402007180173284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf62fc0665669640800000000000000
+      internalID: 5086364318139838395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dfb58b8303d6460800000000000000
+      internalID: 7236493196423593263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e97e394c23d238d0800000000000000
+      internalID: -2867997825520731676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8713acccbc55f00800000000000000
+      internalID: 1105013364015331535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_75
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00861463b3f7c6730800000000000000
+      internalID: 3993706861860841472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e71784eb4b00980800000000000000
+      internalID: -8574654961161241025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f2591a028da14e0800000000000000
+      internalID: -2010056649006043387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346ff0fd97a7de160800000000000000
+      internalID: 7056430855011432003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_79
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f3859009b1d1ac0800000000000000
+      internalID: -3882916998277480637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_80
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3c1ede40cf44780800000000000000
+      internalID: -8699551482071890998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf38c99284e64830800000000000000
+      internalID: 4055179764070629343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909f124d918ff5f90800000000000000
+      internalID: -6962573709074630391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_89
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae78fd3f5006900800000000000000
+      internalID: 675546489090992881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0482c36d4ec98df0800000000000000
+      internalID: -177383878522928117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_91
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd4a3afca65eb70800000000000000
+      internalID: 8927659276368141455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd2aeeaf0d46c00800000000000000
+      internalID: 893068402290253132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_93
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5336bd30e9aaab2a0800000000000000
+      internalID: -6720871898250779851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd603bf02299df50800000000000000
+      internalID: 6906712173900230137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_95
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6dd041cd87b2d00800000000000000
+      internalID: 948985033116210927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_96
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f6d3c7c30b990c0800000000000000
+      internalID: -4568426573161730259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_97
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0777c8d91ccc419a0800000000000000
+      internalID: -6263156049821534352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c708d7f5972a4e0800000000000000
+      internalID: -1971880235800429530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_105
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6e32ebc1953acf0800000000000000
+      internalID: -242251974963894566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867ce8e786386770800000000000000
+      internalID: 8604187045447628429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db393e539126a80800000000000000
+      internalID: -8475183829515780767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc04c620171cb68c0800000000000000
+      internalID: -4004894752499810100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_109
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28803e76b9ae373e0800000000000000
+      internalID: -2057042651594422142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63056b3c5f668ef0800000000000000
+      internalID: -106275099272477842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_111
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603625d87de475820800000000000000
+      internalID: 2906878772186866438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_112
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb250c607624ca0800000000000000
+      internalID: -6034147272028930464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_113
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a29ee50e3be75960800000000000000
+      internalID: 7590794348576281253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_120
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def2c97e165144c20800000000000000
+      internalID: 3189697946326937581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_121
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b6d7fee486cac10800000000000000
+      internalID: 2066141017290926853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c3aa01c413fdd00800000000000000
+      internalID: 999571845066406968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_123
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a77177b474f90b0800000000000000
+      internalID: -5719774612291093870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41f3468cdfa7cb0800000000000000
+      internalID: -4865297410303257428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_125
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ec3939cbbadf800800000000000000
+      internalID: 647862747829358199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_126
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17366c5892da1f20800000000000000
+      internalID: 3394256821004154651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_127
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f90c52d7b79bbf0800000000000000
+      internalID: -308079322063659168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fumiko_128
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902d6ef055cc68220800000000000000
+      internalID: 2487900509879849481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

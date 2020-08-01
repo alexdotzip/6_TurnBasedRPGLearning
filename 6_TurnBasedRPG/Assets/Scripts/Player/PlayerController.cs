@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
     private float movePlayerVertical; //********** Y Axis
 
     private Vector2 movement;
-
+ 
 
     //TODO add polygon collider onexit and have player respawn in map
     private void Awake()

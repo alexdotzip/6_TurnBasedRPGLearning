@@ -16,17 +16,76 @@ public class DialogManager : MonoBehaviour
     public int currentLine;
 
 
-
+    public static DialogManager instance;
+    private bool justStarted;
 
     // Start is called before the first frame update
     void Start()
     {
-        dialogText.text = dialogLines[currentLine];
+
+        instance = this;
+        //dialogText.text = dialogLines[currentLine];
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        ManageDialog();
+    }
+
+    private void ManageDialog() 
+    {
+        if (dialogBox.activeInHierarchy)
+        {
+            if (Input.GetButtonUp("Fire1"))
+            {
+                if (!justStarted)
+                {
+                    currentLine++;
+                    if (currentLine >= dialogLines.Length)
+                    {
+                        dialogBox.SetActive(false);
+
+                        PlayerController.instance.canMove = true;
+                    }
+                    else
+                    {
+                        CheckIfName();
+                        dialogText.text = dialogLines[currentLine];
+                    }
+                }
+                else
+                {
+                    justStarted = false;
+                }
+            }
+        }
+    }
+
+    public void ShowDialog(string[] newLines, bool isPerson)
+    {
+        dialogLines = newLines;
+
+        currentLine = 0;
+
+        CheckIfName();
+
+        dialogText.text = dialogLines[currentLine];
+        dialogBox.SetActive(true);
+
+        justStarted = true;
+
+        nameBox.SetActive(isPerson);
+
+        PlayerController.instance.canMove = false;
+    }
+
+    public void CheckIfName()
+    {
+        if(dialogLines[currentLine].StartsWith("n-"))
+        {
+            nameText.text = dialogLines[currentLine].Replace("n-", "");
+            currentLine++;
+        }
     }
 }

@@ -220,12 +220,12 @@ PrefabInstance:
     - target: {fileID: 5458400033190427769, guid: 5fc2137aa986ff74281b5593f78beeb9,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.96
+      value: -2.37
       objectReference: {fileID: 0}
     - target: {fileID: 5458400033190427769, guid: 5fc2137aa986ff74281b5593f78beeb9,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.18
+      value: -8.15
       objectReference: {fileID: 0}
     - target: {fileID: 5458400033190427769, guid: 5fc2137aa986ff74281b5593f78beeb9,
         type: 3}
@@ -348,7 +348,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &644966184
 RectTransform:
   m_ObjectHideFlags: 0
@@ -361,12 +361,13 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1166321199}
+  - {fileID: 694959571}
   m_Father: {fileID: 821185912}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -4.200012, y: -546.69995}
+  m_AnchoredPosition: {x: -4.2000732, y: -546.69995}
   m_SizeDelta: {x: -64.812744, y: -1132.8231}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &644966185
@@ -431,18 +432,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 694959570}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1706317981}
-  m_Father: {fileID: 821185912}
-  m_RootOrder: 3
+  m_Father: {fileID: 644966184}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -754.8, y: -394}
-  m_SizeDelta: {x: -1566.128, y: -1352.0054}
+  m_AnchoredPosition: {x: -750.5999, y: 152.70001}
+  m_SizeDelta: {x: -1501.3153, y: -219.18225}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &694959572
 MonoBehaviour:
@@ -496,6 +497,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0.011474609
+      objectReference: {fileID: 0}
+    - target: {fileID: 102309796457146643, guid: 316893dc6d2854846ab2b8479c40f982,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 102309797290855975, guid: 316893dc6d2854846ab2b8479c40f982,
         type: 3}
@@ -638,12 +644,12 @@ MonoBehaviour:
   dialogBox: {fileID: 644966183}
   nameBox: {fileID: 694959570}
   dialogLines:
-  - The first line
-  - Hello Hero
-  - Go find the enemy and defeat him!
-  - I am doing my best!
-  - Thanks!
-  currentLine: 3
+  - t
+  - TEST 1
+  - TEST 2
+  - TEST 3
+  - TEST 4
+  currentLine: 0
 --- !u!1 &1166321198
 GameObject:
   m_ObjectHideFlags: 0
@@ -733,6 +739,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1296182475}
   - component: {fileID: 1296182474}
+  - component: {fileID: 1296182477}
+  - component: {fileID: 1296182476}
   m_Layer: 0
   m_Name: NPC_0
   m_TagString: Untagged
@@ -798,12 +806,63 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1296182473}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 19.97, y: -9.51, z: 0}
+  m_LocalPosition: {x: 20.05, y: -9.04, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1296182476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1296182473}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db13edc87ae1bf54ba7fd78c354c5368, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lines:
+  - n- Shelly
+  - How do you like the village?
+  - n- Ailsa
+  - I love it down here!!
+  - n- Shelly
+  - I'm glad you do...
+  - ...weird creatures have been seen here recently
+  - n- Ailsa
+  - ...
+  - What do you mean?
+  - n- Shelly
+  - Nevermind...
+--- !u!61 &1296182477
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1296182473}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.025307655, y: -0.3558879}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.9375, y: 1}
+    newSize: {x: 0.9375, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.46378136, y: 1.5653181}
+  m_EdgeRadius: 0
 --- !u!1001 &1329501346
 PrefabInstance:
   m_ObjectHideFlags: 0

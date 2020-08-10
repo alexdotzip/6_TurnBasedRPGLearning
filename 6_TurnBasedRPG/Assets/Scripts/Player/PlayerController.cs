@@ -15,6 +15,8 @@ public class PlayerController : MonoBehaviour
     private float movePlayerVertical; //********** Y Axis
 
     private Vector2 movement;
+
+    public bool canMove = true;
  
 
     //TODO add polygon collider onexit and have player respawn in map
@@ -39,16 +41,23 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        
+     
         //Movement Work
         movePlayerHorizontal = Input.GetAxisRaw("Horizontal");
         movePlayerVertical = Input.GetAxisRaw("Vertical");
 
         movement = new Vector2(movePlayerHorizontal, movePlayerVertical);
 
-        myRigidbody.velocity = movement * moveSpeed;
+        if (canMove)
+        {
+            myRigidbody.velocity = movement * moveSpeed;
+        }
+        else
+        {
+            myRigidbody.velocity = Vector2.zero;
+        }
 
-       
+
 
         //Animation Work
         playerAnim.SetFloat("moveX", myRigidbody.velocity.x);
@@ -56,8 +65,11 @@ public class PlayerController : MonoBehaviour
 
         if(Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1)
         {
-            playerAnim.SetFloat("Horizontal", Input.GetAxisRaw("Horizontal"));
-            playerAnim.SetFloat("Vertical", Input.GetAxisRaw("Vertical"));
+            if (canMove)
+            {
+                playerAnim.SetFloat("Horizontal", Input.GetAxisRaw("Horizontal"));
+                playerAnim.SetFloat("Vertical", Input.GetAxisRaw("Vertical"));
+            }
         }
     }
 
